@@ -8,6 +8,7 @@ namespace GruppL_Ny.Controllers
 {
     public class HomeController : Controller
     {
+        //Testar
         public ActionResult Index()
         {
             return View();
